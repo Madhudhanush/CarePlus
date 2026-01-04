@@ -17,7 +17,7 @@ const Services = () => {
         'Emergency care protocols',
         'Regular updates to parents'
       ],
-      image: '/images/babysitting.png'
+      image: 'https://github.com/Madhudhanush/CarePlus/blob/main/images/babysitting.png?raw=true'
     },
     {
       id: 'elder-care',
@@ -32,7 +32,7 @@ const Services = () => {
         'Transportation to appointments',
         'Health monitoring and reporting'
       ],
-      image: '/images/elderly.png'
+      image: 'https://github.com/Madhudhanush/CarePlus/blob/main/images/elderly.png?raw=true'
     },
     {
       id: 'physically-ill',
@@ -47,7 +47,7 @@ const Services = () => {
         'Wound care and dressing changes',
         'Coordination with healthcare providers'
       ],
-      image: '/images/physicallyill.png'
+      image: 'https://github.com/Madhudhanush/CarePlus/blob/main/images/physicallyill.png?raw=true'
     }
   ]
 

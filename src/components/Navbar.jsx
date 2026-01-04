@@ -9,7 +9,7 @@ const Navbar = ({ user, onLogout }) => {
         <div className="navbar-content">
           <Link to="/" className="logo" style={{ display: 'flex', alignItems: 'center' }}>
             <img
-              src="/images/careplus-logo.png" 
+              src="https://github.com/Madhudhanush/CarePlus/blob/main/images/careplus-logo.png?raw=true" 
               alt="CarePlus Logo"
               style={{ height: '60px',marginleft: '-10px' }}
             />

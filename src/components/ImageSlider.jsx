@@ -4,17 +4,17 @@ import { motion } from 'framer-motion'
 const ImageSlider = () => {
   const slides = [
   {
-    image: '/images/babysitting.png',
+    image: 'https://github.com/Madhudhanush/CarePlus/blob/main/images/babysitting.png?raw=true',
     title: 'Professional Babysitting',
     description: 'Trusted childcare with certified babysitters for your peace of mind'
   },
   {
-    image: '/images/elderly.png',
+    image: 'https://github.com/Madhudhanush/CarePlus/blob/main/images/elderly.png?raw=true',
     title: 'Elder Care Services',
     description: 'Compassionate care for seniors with dignity and respect'
   },
   {
-    image: '/images/physicallyill.png',
+    image: 'https://github.com/Madhudhanush/CarePlus/blob/main/images/physicallyill.png?raw=true',
     title: 'Physically Ill Care',
     description: 'Specialized medical support for those recovering and healing'
   },
